@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Seun, a full stack Blockchain developer
-- 👀 I’m interested in anything that's challenging and involves logic
+- 👀 I’m open to entry level Frontend/Blockchain development jobs
 - 🌱 I’m working on gaining a deeper understanding of Ethereum.
 - 💞️ I’m looking to collaborate on all sorts of challenging projects.
 - 📫 you can reach me through:
      Email: seunemmanuel2255@gmail.com
      Phone: 09067571831
+     
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
