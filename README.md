@@ -6,5 +6,3 @@
      Email: seunemmanuel2255@gmail.com
      Phone: 09067571831
      
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Seun2255&count_private=true&theme=tokyonight&showicons=true)]()
